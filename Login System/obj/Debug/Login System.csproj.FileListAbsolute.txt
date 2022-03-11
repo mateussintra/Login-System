@@ -1,0 +1,13 @@
+C:\Users\mateu\source\repos\Login System\Login System\bin\Debug\Login System.exe.config
+C:\Users\mateu\source\repos\Login System\Login System\bin\Debug\Login System.exe
+C:\Users\mateu\source\repos\Login System\Login System\bin\Debug\Login System.pdb
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login System.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login System.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login_System.Form1.resources
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login_System.Presentation.Register.resources
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login_System.Presentation.Welcome.resources
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login_System.Properties.Resources.resources
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login System.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login System.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login System.exe
+C:\Users\mateu\source\repos\Login System\Login System\obj\Debug\Login System.pdb
